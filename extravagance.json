@@ -119,14 +119,6 @@
     "activated": "20/11/2025",
     "bot_id": "default"
   },
-  "APO-EABB-51F7-4BAD-C84D": {
-    "expire": "03/11/2026",
-    "plan": "1year",
-    "payment_id": "manual",
-    "created": "20/11/2025",
-    "activated": "20/11/2025",
-    "bot_id": "default"
-  },
   "APO-00B9-99A4-FAB2-D65C": {
     "expire": "04/02/2026",
     "plan": "3months",
