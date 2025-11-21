@@ -1,104 +1,240 @@
 {
   "APO-21F2-D8E6-309A-9AD4": {
-    "expire": "18/10/2026"
+    "expire": "18/10/2026",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-4327-C2FD-63D2-7571": {
-    "expire": "21/01/2026"
+    "expire": "21/01/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-C182-152F-25AE-1FA8": {
-    "expire": "21/10/2026"
+    "expire": "21/10/2026",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-52F6-72CD-B453-1C3F": {
-    "expire": "22/01/2026"
+    "expire": "22/01/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-048A-F3F5-2264-C225": {
-    "expire": "23/11/2025"
+    "expire": "23/11/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-2E40-A589-BA76-AA42": {
-    "expire": "23/01/2026"
+    "expire": "23/01/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-5ED7-D94D-9230-3857": {
-    "expire": "23/01/2026"
+    "expire": "23/01/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-0C07-C167-EA57-9589": {
-    "expire": "24/01/2026"
+    "expire": "24/01/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-0791-E6BB-638A-260A": {
-    "expire": "26/01/2026"
+    "expire": "26/01/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-2F9B-BA58-B8C1-79D6": {
-    "expire": "27/01/2026"
+    "expire": "27/01/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-1AFE-7477-9328-6552": {
-    "expire": "27/11/2025"
+    "expire": "27/11/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-45E4-1452-C082-75A1": {
-    "expire": "28/11/2025"
+    "expire": "28/11/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-D197-185D-FADD-3CF4": {
-    "expire": "30/11/2025"
+    "expire": "30/11/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-E46A-F753-3885-4EF6": {
-    "expire": "30/11/2025"
+    "expire": "30/11/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-CF0B-29F6-E071-158C": {
-    "expire": "30/11/2025"
+    "expire": "30/11/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-1099-627E-F517-3327": {
-    "expire": "01/12/2025"
+    "expire": "01/12/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-DF8C-2D57-5450-96FA": {
-    "expire": "01/12/2025"
+    "expire": "01/12/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-A9CC-6FFC-81C1-F9E8": {
-    "expire": "01/11/2026"
+    "expire": "01/11/2026",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-EABB-51F7-4BAD-C84D": {
-    "expire": "03/11/2026"
+    "expire": "03/11/2026",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-00B9-99A4-FAB2-D65C": {
-    "expire": "04/02/2026"
+    "expire": "04/02/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-E6EF-66CB-A859-BF1A": {
-    "expire": "04/02/2026"
+    "expire": "04/02/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-E2DA-4B0A-46AD-C5C7": {
-    "expire": "04/02/2026"
+    "expire": "04/02/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-C0E6-5D33-0C22-81FC": {
-    "expire": "04/11/2026"
+    "expire": "04/11/2026",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-47A0-0237-20E9-733B": {
-    "expire": "04/02/2026"
+    "expire": "04/02/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-CC6B-F18E-E473-7D79": {
-    "expire": "04/02/2026"
+    "expire": "04/02/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-ED1D-C113-9AE5-6DDF": {
-    "expire": "05/11/2026"
+    "expire": "05/11/2026",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-9C80-8A57-F58D-2C84": {
-    "expire": "06/11/2026"
+    "expire": "06/11/2026",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-AFC6-BAFB-21CB-A18C": {
-    "expire": "06/12/2025"
+    "expire": "06/12/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-FD7E-2FBD-C8BB-18BF": {
-    "expire": "19/02/2026"
+    "expire": "19/02/2026",
+    "plan": "6months",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-58C8-FFB7-810E-15DA": {
-    "expire": "19/12/2025"
+    "expire": "19/12/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-E9A9-6CF0-1F3E-BE3E": {
-    "expire": "26/11/2025"
+    "expire": "26/11/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-761F-89A7-12F5-3022": {
-    "expire": "26/11/2025"
+    "expire": "26/11/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-BA67-9E99-C2DF-1F99": {
-    "expire": "26/11/2025"
+    "expire": "26/11/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   },
   "APO-A5F4-3F5D-3BBD-57B1": {
-    "expire": "19/12/2025"
+    "expire": "19/12/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/11/2025",
+    "activated": "20/11/2025"
   }
 }
