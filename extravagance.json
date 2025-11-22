@@ -184,12 +184,12 @@
     "bot_id": "default"
   },
   "APO-E9A9-6CF0-1F3E-BE3E": {
-    "expire": "26/11/2025",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "20/11/2025",
-    "activated": "20/11/2025",
-    "bot_id": "default"
+    "expire": "23/11/2025",
+    "created": "22/11/2025",
+    "activated": "22/11/2025",
+    "plan": "1day",
+    "payment_id": "5214317349",
+    "bot_id": "bot"
   },
   "APO-761F-89A7-12F5-3022": {
     "expire": "26/11/2025",
