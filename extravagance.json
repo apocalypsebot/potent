@@ -207,12 +207,11 @@
     "activated": "23/11/2025",
     "bot_id": "bot_1763688702432"
   },
-  "APO-1906-AD17-33C4-D3E1": {
-    "expire": "23/12/2025",
-    "plan": "1month",
+  "APO-54C6-7CE3-BAD6-10B4": {
+    "expire": "30/11/2025",
+    "plan": "1week",
     "payment_id": "manual",
     "created": "23/11/2025",
-    "activated": "23/11/2025",
-    "bot_id": "bot_1763688423149"
+    "activated": "23/11/2025"
   }
 }
