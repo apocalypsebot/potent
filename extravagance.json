@@ -1,11 +1,11 @@
 {
   "APO-4327-C2FD-63D2-7571": {
-    "expire": "21/01/2026",
+    "expire": "24/02/2026",
     "plan": "3months",
     "payment_id": "manual",
     "created": "20/11/2025",
     "activated": "20/11/2025",
-    "bot_id": "default"
+    "bot_id": "bot_1763688702432"
   },
   "APO-52F6-72CD-B453-1C3F": {
     "expire": "22/01/2026",
