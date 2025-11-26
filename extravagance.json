@@ -175,14 +175,6 @@
     "activated": "20/11/2025",
     "bot_id": "default"
   },
-  "APO-761F-89A7-12F5-3022": {
-    "expire": "26/11/2025",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "20/11/2025",
-    "activated": "20/11/2025",
-    "bot_id": "default"
-  },
   "APO-A5F4-3F5D-3BBD-57B1": {
     "expire": "19/12/2025",
     "plan": "1month",
