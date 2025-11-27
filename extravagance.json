@@ -55,14 +55,6 @@
     "activated": "20/11/2025",
     "bot_id": "default"
   },
-  "APO-1AFE-7477-9328-6552": {
-    "expire": "27/11/2025",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "20/11/2025",
-    "activated": "20/11/2025",
-    "bot_id": "default"
-  },
   "APO-45E4-1452-C082-75A1": {
     "expire": "28/11/2025",
     "plan": "1month",
