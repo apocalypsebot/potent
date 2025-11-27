@@ -229,5 +229,13 @@
     "created": "23/11/2025",
     "activated": "23/11/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-71B7-149F-BEBC-5982": {
+    "expire": "27/12/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "27/11/2025",
+    "activated": "27/11/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
