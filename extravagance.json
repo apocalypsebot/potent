@@ -168,12 +168,12 @@
     "bot_id": "default"
   },
   "APO-A5F4-3F5D-3BBD-57B1": {
-    "expire": "19/12/2025",
+    "expire": "27/12/2025",
     "plan": "1month",
     "payment_id": "manual",
     "created": "20/11/2025",
     "activated": "20/11/2025",
-    "bot_id": "default"
+    "bot_id": "bot_1763688702432"
   },
   "APO-048A-F3F5-2264-C225": {
     "expire": "23/12/2025",
