@@ -261,5 +261,13 @@
     "created": "28/11/2025",
     "activated": "28/11/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-EC24-3522-FF1F-91CB": {
+    "expire": "28/02/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "28/11/2025",
+    "activated": "28/11/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
