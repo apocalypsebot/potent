@@ -277,5 +277,13 @@
     "created": "28/11/2025",
     "activated": "28/11/2025",
     "bot_id": "bot_1763688423149"
+  },
+  "APO-3C88-DF69-BB32-6529": {
+    "expire": "28/12/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "28/11/2025",
+    "activated": "28/11/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
