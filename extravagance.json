@@ -48,12 +48,12 @@
     "bot_id": "default"
   },
   "APO-2F9B-BA58-B8C1-79D6": {
-    "expire": "27/01/2026",
-    "plan": "3months",
+    "expire": "01/01/2026",
+    "plan": "1month",
     "payment_id": "manual",
-    "created": "20/11/2025",
-    "activated": "20/11/2025",
-    "bot_id": "default"
+    "created": "01/12/2025",
+    "activated": "01/12/2025",
+    "bot_id": "bot_1763688702432"
   },
   "APO-00B9-99A4-FAB2-D65C": {
     "expire": "04/02/2026",
