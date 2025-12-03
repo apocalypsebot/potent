@@ -231,14 +231,6 @@
     "activated": "23/11/2025",
     "bot_id": "bot_1763688702432"
   },
-  "APO-8650-C986-FC64-F950": {
-    "expire": "28/12/2025",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "28/11/2025",
-    "activated": "28/11/2025",
-    "bot_id": "bot_1763688702432"
-  },
   "APO-41AA-353D-554D-5C81": {
     "expire": "27/12/2025",
     "plan": "1month",
@@ -261,6 +253,14 @@
     "payment_id": "manual",
     "created": "03/12/2025",
     "activated": "03/12/2025",
+    "bot_id": "bot_1763688702432"
+  },
+  "APO-6303-23EC-9FF1-F7D6": {
+    "expire": "28/12/2025",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "28/11/2025",
+    "activated": "28/11/2025",
     "bot_id": "bot_1763688702432"
   }
 }
