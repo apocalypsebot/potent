@@ -270,5 +270,13 @@
     "created": "23/11/2025",
     "activated": "23/11/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-95DA-862F-6DE2-5397": {
+    "expire": "04/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "04/12/2025",
+    "activated": "04/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
