@@ -262,5 +262,13 @@
     "created": "28/11/2025",
     "activated": "28/11/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-D5FA-81D2-48F8-C2CE": {
+    "expire": "04/03/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "04/12/2025",
+    "activated": "04/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
