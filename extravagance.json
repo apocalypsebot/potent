@@ -278,5 +278,13 @@
     "created": "28/11/2025",
     "activated": "28/11/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-000C-96F4-A937-BE68": {
+    "expire": "06/12/2026",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "06/12/2025",
+    "activated": "06/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
