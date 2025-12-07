@@ -294,5 +294,13 @@
     "created": "06/12/2025",
     "activated": "06/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-DAFF-4B79-4B38-099A": {
+    "expire": "07/03/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "07/12/2025",
+    "activated": "07/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
