@@ -382,5 +382,13 @@
     "created": "10/12/2025",
     "activated": "10/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-D241-977F-B8A3-0953": {
+    "expire": "11/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "11/12/2025",
+    "activated": "11/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
