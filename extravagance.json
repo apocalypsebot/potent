@@ -390,5 +390,13 @@
     "created": "27/11/2025",
     "activated": "27/11/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-0F78-D318-92FA-FFFE": {
+    "expire": "13/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "13/12/2025",
+    "activated": "13/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
