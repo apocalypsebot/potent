@@ -398,5 +398,13 @@
     "created": "13/12/2025",
     "activated": "13/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-D23B-838C-A73A-0607": {
+    "expire": "13/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "13/12/2025",
+    "activated": "13/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
