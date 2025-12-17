@@ -470,5 +470,12 @@
     "created": "16/12/2025",
     "activated": "16/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-8A6A-BEEA-F1C9-2182": {
+    "expire": "24/12/2025",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "17/12/2025",
+    "activated": "17/12/2025"
   }
 }
