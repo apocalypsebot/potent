@@ -502,5 +502,13 @@
     "created": "10/12/2025",
     "activated": "10/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-33F1-D0CE-6069-F5E4": {
+    "expire": "18/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "18/12/2025",
+    "activated": "18/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
