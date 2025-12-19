@@ -541,5 +541,13 @@
     "payment_id": "manual",
     "created": "19/12/2025",
     "activated": "19/12/2025"
+  },
+  "APO-8EDB-BD77-6271-90C5": {
+    "expire": "19/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "19/12/2025",
+    "activated": "19/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
