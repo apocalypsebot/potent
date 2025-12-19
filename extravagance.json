@@ -535,12 +535,11 @@
     "activated": "19/12/2025",
     "bot_id": "bot_1763688702432"
   },
-  "APO-7DEF-017A-85C6-1985": {
-    "expire": "19/06/2026",
-    "plan": "6months",
+  "APO-9B2A-E8B1-3555-99FE": {
+    "expire": "19/12/2026",
+    "plan": "1year",
     "payment_id": "manual",
     "created": "19/12/2025",
-    "activated": "19/12/2025",
-    "bot_id": "bot_1763688702432"
+    "activated": "19/12/2025"
   }
 }
