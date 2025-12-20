@@ -597,5 +597,13 @@
     "created": "20/12/2025",
     "activated": "20/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-8676-D5DC-FE93-E06F": {
+    "expire": "20/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/12/2025",
+    "activated": "20/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
