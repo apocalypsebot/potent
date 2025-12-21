@@ -613,5 +613,13 @@
     "created": "21/12/2025",
     "activated": "21/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-C435-ABF3-F29F-8999": {
+    "expire": "21/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "21/12/2025",
+    "activated": "21/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
