@@ -605,5 +605,13 @@
     "created": "20/12/2025",
     "activated": "20/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-879F-4792-C605-38D4": {
+    "expire": "21/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "21/12/2025",
+    "activated": "21/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
