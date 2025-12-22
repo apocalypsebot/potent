@@ -628,5 +628,12 @@
     "payment_id": "manual",
     "created": "22/12/2025",
     "activated": "22/12/2025"
+  },
+  "APO-0212-DC80-FD27-DE9D": {
+    "expire": "22/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "22/12/2025",
+    "activated": "22/12/2025"
   }
 }
