@@ -634,6 +634,7 @@
     "plan": "1month",
     "payment_id": "manual",
     "created": "22/12/2025",
-    "activated": "22/12/2025"
+    "activated": "22/12/2025",
+    "bot_id": "default"
   }
 }
