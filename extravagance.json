@@ -621,5 +621,13 @@
     "created": "23/12/2025",
     "activated": "23/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-FFD6-130E-AFF5-8617": {
+    "expire": "23/03/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "23/12/2025",
+    "activated": "23/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
