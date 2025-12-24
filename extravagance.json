@@ -654,5 +654,13 @@
     "created": "23/12/2025",
     "activated": "23/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-5E87-72C6-C5A2-491A": {
+    "expire": "24/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "24/12/2025",
+    "activated": "24/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
