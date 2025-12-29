@@ -718,5 +718,13 @@
     "created": "27/12/2025",
     "activated": "27/12/2025",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-319C-C10A-2F27-83F5_bot_1766888920916": {
+    "expire": "29/03/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "29/12/2025",
+    "activated": "29/12/2025",
+    "bot_id": "bot_1766888920916"
   }
 }
