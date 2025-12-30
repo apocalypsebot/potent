@@ -734,5 +734,13 @@
     "created": "27/12/2025",
     "activated": "27/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-41AA-353D-554D-5C81_bot_1766888920916": {
+    "expire": "06/01/2026",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "30/12/2025",
+    "activated": "30/12/2025",
+    "bot_id": "bot_1766888920916"
   }
 }
