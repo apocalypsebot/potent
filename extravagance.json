@@ -718,5 +718,13 @@
     "created": "23/12/2025",
     "activated": "23/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-3602-F447-5E48-1F4C_bot_1766888920916": {
+    "expire": "05/01/2026",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "29/12/2025",
+    "activated": "29/12/2025",
+    "bot_id": "bot_1766888920916"
   }
 }
