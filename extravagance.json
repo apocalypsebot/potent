@@ -766,5 +766,13 @@
     "created": "31/12/2025",
     "activated": "31/12/2025",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-C24C-C3C1-369E-D307_bot_1763688702432": {
+    "expire": "31/01/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "31/12/2025",
+    "activated": "31/12/2025",
+    "bot_id": "bot_1763688702432"
   }
 }
