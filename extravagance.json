@@ -798,5 +798,13 @@
     "created": "20/11/2025",
     "activated": "20/11/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-750A-F9D8-9F52-715C_bot_1763688702432": {
+    "expire": "02/02/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "02/01/2026",
+    "activated": "02/01/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
