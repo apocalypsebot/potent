@@ -782,5 +782,13 @@
     "created": "28/12/2025",
     "activated": "28/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-7C86-B2FE-2A4F-9540_bot_1766888920916": {
+    "expire": "10/01/2026",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "03/01/2026",
+    "activated": "03/01/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
