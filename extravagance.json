@@ -774,5 +774,13 @@
     "created": "28/12/2025",
     "activated": "28/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-014A-9DBD-5CBC-F633_bot_1763688702432": {
+    "expire": "04/02/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "04/01/2026",
+    "activated": "04/01/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
