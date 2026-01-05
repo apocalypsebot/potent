@@ -758,5 +758,13 @@
     "created": "05/01/2026",
     "activated": "05/01/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-8371-25DA-8FB1-5EF8_bot_1766888920916": {
+    "expire": "05/02/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "05/01/2026",
+    "activated": "05/01/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
