@@ -790,5 +790,13 @@
     "created": "07/01/2026",
     "activated": "07/01/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-26B5-E471-7494-D1A5_bot_1763688702432": {
+    "expire": "07/02/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "07/01/2026",
+    "activated": "07/01/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
