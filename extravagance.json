@@ -14,5 +14,13 @@
     "created": "14/01/2026",
     "activated": "14/01/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-9221-15B2-D3B1-FFEF_bot_1768086339436": {
+    "expire": "14/07/2026",
+    "plan": "6months",
+    "payment_id": "manual",
+    "created": "14/01/2026",
+    "activated": "14/01/2026",
+    "bot_id": "bot_1768086339436"
   }
 }
