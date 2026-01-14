@@ -766,5 +766,13 @@
     "created": "09/01/2026",
     "activated": "09/01/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-199A-DDC4-F943-4EDD_bot_1768086339436": {
+    "expire": "13/02/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "13/01/2026",
+    "activated": "13/01/2026",
+    "bot_id": "bot_1768086339436"
   }
 }
