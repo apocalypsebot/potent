@@ -774,5 +774,13 @@
     "created": "10/01/2026",
     "activated": "10/01/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-C474-C3CB-E68A-6685_bot_1766888920916": {
+    "expire": "15/04/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "15/01/2026",
+    "activated": "15/01/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
