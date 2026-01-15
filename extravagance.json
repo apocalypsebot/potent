@@ -798,5 +798,13 @@
     "created": "15/01/2026",
     "activated": "15/01/2026",
     "bot_id": "bot_1768086339436"
+  },
+  "APO-245C-59F9-0C17-0DD9_bot_1763688702432": {
+    "expire": "15/04/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "15/01/2026",
+    "activated": "15/01/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
