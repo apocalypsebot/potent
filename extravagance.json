@@ -806,5 +806,13 @@
     "created": "29/12/2025",
     "activated": "29/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-8D40-F194-2292-175A_bot_1763688702432": {
+    "expire": "17/04/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "17/01/2026",
+    "activated": "17/01/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
