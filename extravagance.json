@@ -742,5 +742,13 @@
     "created": "13/01/2026",
     "activated": "13/01/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-7ABF-5224-108C-D94D_bot_1766888920916": {
+    "expire": "21/02/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "21/01/2026",
+    "activated": "21/01/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
