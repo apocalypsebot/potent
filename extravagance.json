@@ -686,5 +686,13 @@
     "created": "27/01/2026",
     "activated": "27/01/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-2B3D-6605-1E01-DFAD_bot_1766888920916": {
+    "expire": "27/01/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "27/01/2026",
+    "activated": "27/01/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
