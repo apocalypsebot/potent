@@ -135,22 +135,6 @@
     "activated": "27/12/2025",
     "bot_id": "bot_1763688702432"
   },
-  "APO-9221-15B2-D3B1-FFEF_bot_1763688702432": {
-    "expire": "28/01/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "28/12/2025",
-    "activated": "28/12/2025",
-    "bot_id": "bot_1763688702432"
-  },
-  "APO-9221-15B2-D3B1-FFEF_bot_1766888920916": {
-    "expire": "28/01/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "28/12/2025",
-    "activated": "28/12/2025",
-    "bot_id": "bot_1766888920916"
-  },
   "APO-DBE5-D2AF-3138-D675_bot_1766888920916": {
     "expire": "29/01/2026",
     "plan": "1month",
@@ -263,22 +247,6 @@
     "activated": "24/12/2025",
     "bot_id": "bot_1763688702432"
   },
-  "APO-9B2A-E8B1-3555-99FE_bot_1766888920916": {
-    "expire": "28/01/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "28/12/2025",
-    "activated": "28/12/2025",
-    "bot_id": "bot_1766888920916"
-  },
-  "APO-4D3D-CC05-B1E3-987A_bot_1763688702432": {
-    "expire": "28/01/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "28/12/2025",
-    "activated": "28/12/2025",
-    "bot_id": "bot_1763688702432"
-  },
   "APO-014A-9DBD-5CBC-F633_bot_1763688702432": {
     "expire": "04/02/2026",
     "plan": "1month",
@@ -366,14 +334,6 @@
     "created": "10/01/2026",
     "activated": "10/01/2026",
     "bot_id": "bot_1768086339436"
-  },
-  "APO-41AA-353D-554D-5C81_bot_1763688702432": {
-    "expire": "28/01/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "28/12/2025",
-    "activated": "28/12/2025",
-    "bot_id": "bot_1763688702432"
   },
   "APO-5BF7-86E9-1E73-06FF_bot_1768086339436": {
     "expire": "10/02/2026",
@@ -670,14 +630,6 @@
     "created": "09/01/2026",
     "activated": "09/01/2026",
     "bot_id": "bot_1766888920916"
-  },
-  "APO-48E3-A0BA-B400-5AFC_bot_1763688702432": {
-    "expire": "28/01/2026",
-    "plan": "1day",
-    "payment_id": "manual",
-    "created": "27/01/2026",
-    "activated": "27/01/2026",
-    "bot_id": "bot_1763688702432"
   },
   "APO-2B3D-6605-1E01-DFAD_bot_1766888920916": {
     "expire": "27/01/2027",
