@@ -678,5 +678,13 @@
     "created": "23/12/2025",
     "activated": "23/12/2025",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-48E3-A0BA-B400-5AFC_bot_1763688702432": {
+    "expire": "28/01/2026",
+    "plan": "1day",
+    "payment_id": "manual",
+    "created": "27/01/2026",
+    "activated": "27/01/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
