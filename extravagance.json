@@ -622,5 +622,13 @@
     "created": "02/02/2026",
     "activated": "02/02/2026",
     "bot_id": "bot_1763688423149"
+  },
+  "APO-BE99-6DE9-80DE-8A10_bot_1763688423149": {
+    "expire": "02/03/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "02/02/2026",
+    "activated": "02/02/2026",
+    "bot_id": "bot_1763688423149"
   }
 }
