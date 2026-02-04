@@ -7,46 +7,6 @@
     "activated": "20/11/2025",
     "bot_id": "bot_1763688702432"
   },
-  "APO-00B9-99A4-FAB2-D65C_default": {
-    "expire": "04/02/2026",
-    "plan": "3months",
-    "payment_id": "manual",
-    "created": "20/11/2025",
-    "activated": "20/11/2025",
-    "bot_id": "default"
-  },
-  "APO-E6EF-66CB-A859-BF1A_default": {
-    "expire": "04/02/2026",
-    "plan": "3months",
-    "payment_id": "manual",
-    "created": "20/11/2025",
-    "activated": "20/11/2025",
-    "bot_id": "default"
-  },
-  "APO-E2DA-4B0A-46AD-C5C7_default": {
-    "expire": "04/02/2026",
-    "plan": "3months",
-    "payment_id": "manual",
-    "created": "20/11/2025",
-    "activated": "20/11/2025",
-    "bot_id": "default"
-  },
-  "APO-47A0-0237-20E9-733B_default": {
-    "expire": "04/02/2026",
-    "plan": "3months",
-    "payment_id": "manual",
-    "created": "20/11/2025",
-    "activated": "20/11/2025",
-    "bot_id": "default"
-  },
-  "APO-CC6B-F18E-E473-7D79_default": {
-    "expire": "04/02/2026",
-    "plan": "3months",
-    "payment_id": "manual",
-    "created": "20/11/2025",
-    "activated": "20/11/2025",
-    "bot_id": "default"
-  },
   "APO-FD7E-2FBD-C8BB-18BF_default": {
     "expire": "19/02/2026",
     "plan": "6months",
@@ -143,28 +103,12 @@
     "activated": "29/12/2025",
     "bot_id": "bot_1766888920916"
   },
-  "APO-3E92-92C1-56D5-ABF2_bot_1763688702432": {
-    "expire": "04/02/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "04/01/2026",
-    "activated": "04/01/2026",
-    "bot_id": "bot_1763688702432"
-  },
   "APO-9B2A-E8B1-3555-99FE_bot_1763688702432": {
     "expire": "24/12/2026",
     "plan": "1year",
     "payment_id": "manual",
     "created": "24/12/2025",
     "activated": "24/12/2025",
-    "bot_id": "bot_1763688702432"
-  },
-  "APO-014A-9DBD-5CBC-F633_bot_1763688702432": {
-    "expire": "04/02/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "04/01/2026",
-    "activated": "04/01/2026",
     "bot_id": "bot_1763688702432"
   },
   "APO-8371-25DA-8FB1-5EF8_bot_1766888920916": {
