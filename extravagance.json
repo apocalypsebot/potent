@@ -111,14 +111,6 @@
     "activated": "24/12/2025",
     "bot_id": "bot_1763688702432"
   },
-  "APO-199A-DDC4-F943-4EDD_bot_1768086339436": {
-    "expire": "13/02/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "13/01/2026",
-    "activated": "13/01/2026",
-    "bot_id": "bot_1768086339436"
-  },
   "APO-A9CC-6FFC-81C1-F9E8_bot_1768086339436": {
     "expire": "13/01/2027",
     "plan": "1year",
