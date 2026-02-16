@@ -614,5 +614,13 @@
     "created": "31/01/2026",
     "activated": "31/01/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-9B2A-E8B1-3555-99FE_bot_1766888920916": {
+    "expire": "16/02/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "16/02/2026",
+    "activated": "16/02/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
