@@ -678,5 +678,13 @@
     "created": "18/02/2026",
     "activated": "18/02/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-46F3-1F85-D852-AD1D_bot_1763688702432": {
+    "expire": "19/02/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "19/02/2026",
+    "activated": "19/02/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
