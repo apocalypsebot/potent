@@ -766,5 +766,13 @@
     "created": "20/02/2026",
     "activated": "20/02/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-BCFB-FBB9-B083-81FB_bot_1763688702432": {
+    "expire": "21/03/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "21/02/2026",
+    "activated": "21/02/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
