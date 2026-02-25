@@ -750,5 +750,13 @@
     "created": "25/02/2026",
     "activated": "25/02/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-20CF-CD9B-C6EE-3279_bot_1763688702432": {
+    "expire": "25/03/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "25/02/2026",
+    "activated": "25/02/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
