@@ -774,5 +774,13 @@
     "created": "25/02/2026",
     "activated": "25/02/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-A2DA-D99B-F538-5540_bot_1763688702432": {
+    "expire": "25/03/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "25/02/2026",
+    "activated": "25/02/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
