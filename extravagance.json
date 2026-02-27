@@ -822,5 +822,13 @@
     "created": "27/02/2026",
     "activated": "27/02/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-3529-5F67-CF59-EB9A_bot_1763688702432": {
+    "expire": "06/03/2026",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "27/02/2026",
+    "activated": "27/02/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
