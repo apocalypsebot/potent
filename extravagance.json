@@ -798,5 +798,13 @@
     "created": "16/01/2026",
     "activated": "16/01/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-56D7-165D-06CE-84CB_bot_1763688702432": {
+    "expire": "27/03/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "27/02/2026",
+    "activated": "27/02/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
