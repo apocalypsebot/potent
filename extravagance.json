@@ -758,5 +758,13 @@
     "created": "18/02/2026",
     "activated": "18/02/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-2E40-A589-BA76-AA42_bot_1763688702432": {
+    "expire": "28/02/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "28/02/2026",
+    "activated": "28/02/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
