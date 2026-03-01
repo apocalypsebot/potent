@@ -199,14 +199,6 @@
     "activated": "02/02/2026",
     "bot_id": "bot_1763688423149"
   },
-  "APO-21F2-D8E6-309A-9AD4_bot_1763688423149": {
-    "expire": "02/02/2027",
-    "plan": "1year",
-    "payment_id": "manual",
-    "created": "02/02/2026",
-    "activated": "02/02/2026",
-    "bot_id": "bot_1763688423149"
-  },
   "APO-CC6B-42D2-97D9-BF60_bot_1763688423149": {
     "expire": "02/03/2026",
     "plan": "1month",
@@ -222,14 +214,6 @@
     "created": "02/02/2026",
     "activated": "02/02/2026",
     "bot_id": "bot_1763688423149"
-  },
-  "APO-21F2-D8E6-309A-9AD4_bot_1768086339436": {
-    "expire": "02/02/2027",
-    "plan": "1year",
-    "payment_id": "manual",
-    "created": "02/02/2026",
-    "activated": "02/02/2026",
-    "bot_id": "bot_1768086339436"
   },
   "APO-1E81-D001-30CB-4202_bot_1763688702432": {
     "expire": "03/03/2026",
@@ -719,14 +703,6 @@
     "activated": "12/01/2026",
     "bot_id": "bot_1763688702432"
   },
-  "APO-21F2-D8E6-309A-9AD4_bot_1763688702432": {
-    "expire": "28/02/2027",
-    "plan": "1year",
-    "payment_id": "manual",
-    "created": "28/02/2026",
-    "activated": "28/02/2026",
-    "bot_id": "bot_1763688702432"
-  },
   "APO-F00F-3D5A-E47C-2D2D_bot_1766888920916": {
     "expire": "28/03/2026",
     "plan": "1month",
@@ -797,6 +773,30 @@
     "payment_id": "manual",
     "created": "31/01/2026",
     "activated": "31/01/2026",
+    "bot_id": "bot_1763688702432"
+  },
+  "APO-F16B-B88F-D166-8496_bot_1763688423149": {
+    "expire": "02/02/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "02/02/2026",
+    "activated": "02/02/2026",
+    "bot_id": "bot_1763688423149"
+  },
+  "APO-F16B-B88F-D166-8496_bot_1768086339436": {
+    "expire": "02/02/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "02/02/2026",
+    "activated": "02/02/2026",
+    "bot_id": "bot_1768086339436"
+  },
+  "APO-F16B-B88F-D166-8496_bot_1763688702432": {
+    "expire": "28/02/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "28/02/2026",
+    "activated": "28/02/2026",
     "bot_id": "bot_1763688702432"
   }
 }
