@@ -846,5 +846,13 @@
     "created": "16/01/2026",
     "activated": "16/01/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-1588-DE7E-A89E-2716_bot_1766888920916": {
+    "expire": "03/04/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "03/03/2026",
+    "activated": "03/03/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
