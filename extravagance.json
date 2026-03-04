@@ -1,12 +1,4 @@
 {
-  "APO-D5FA-81D2-48F8-C2CE_bot_1763688702432": {
-    "expire": "04/03/2026",
-    "plan": "3months",
-    "payment_id": "manual",
-    "created": "04/12/2025",
-    "activated": "04/12/2025",
-    "bot_id": "bot_1763688702432"
-  },
   "APO-1EF1-DCC5-9185-9601_bot_1763688702432": {
     "expire": "06/03/2026",
     "plan": "3months",
@@ -150,30 +142,6 @@
     "created": "04/02/2026",
     "activated": "04/02/2026",
     "bot_id": "bot_1763688702432"
-  },
-  "APO-6B57-9444-215B-9389_bot_1766888920916": {
-    "expire": "04/03/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "04/02/2026",
-    "activated": "04/02/2026",
-    "bot_id": "bot_1766888920916"
-  },
-  "APO-9D33-3C28-5DBE-8C38_bot_1763688702432": {
-    "expire": "04/03/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "04/02/2026",
-    "activated": "04/02/2026",
-    "bot_id": "bot_1763688702432"
-  },
-  "APO-9D33-3C28-5DBE-8C38_bot_1766888920916": {
-    "expire": "04/03/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "04/02/2026",
-    "activated": "04/02/2026",
-    "bot_id": "bot_1766888920916"
   },
   "APO-41AA-353D-554D-5C81_bot_1763688702432": {
     "expire": "28/03/2026",
@@ -423,14 +391,6 @@
     "activated": "02/02/2026",
     "bot_id": "bot_1763688702432"
   },
-  "APO-4D3D-CC05-B1E3-987A_bot_1763688423149": {
-    "expire": "04/03/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "04/02/2026",
-    "activated": "04/02/2026",
-    "bot_id": "bot_1763688423149"
-  },
   "APO-4D3D-CC05-B1E3-987A_bot_1766888920916": {
     "expire": "24/03/2026",
     "plan": "1month",
@@ -494,14 +454,6 @@
     "created": "14/02/2026",
     "activated": "14/02/2026",
     "bot_id": "bot_1766888920916"
-  },
-  "APO-7ABF-5224-108C-D94D_bot_1763688702432": {
-    "expire": "04/03/2026",
-    "plan": "1week",
-    "payment_id": "manual",
-    "created": "25/02/2026",
-    "activated": "25/02/2026",
-    "bot_id": "bot_1763688702432"
   },
   "APO-7ABF-5224-108C-D94D_bot_1766888920916": {
     "expire": "25/03/2026",
