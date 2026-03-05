@@ -878,5 +878,13 @@
     "created": "04/03/2026",
     "activated": "04/03/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-6585-AAE6-3A5F-88F4_bot_1766888920916": {
+    "expire": "11/03/2026",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "04/03/2026",
+    "activated": "04/03/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
