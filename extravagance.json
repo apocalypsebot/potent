@@ -902,5 +902,13 @@
     "created": "02/03/2026",
     "activated": "02/03/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-FD02-F467-CE7F-E228_bot_1763688702432": {
+    "expire": "06/04/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "06/03/2026",
+    "activated": "06/03/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
