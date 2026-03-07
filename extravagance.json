@@ -918,5 +918,13 @@
     "created": "12/01/2026",
     "activated": "12/01/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-6E5C-F538-519B-10FA_bot_1763688702432": {
+    "expire": "06/04/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "06/03/2026",
+    "activated": "06/03/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
