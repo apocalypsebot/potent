@@ -934,5 +934,13 @@
     "created": "18/02/2026",
     "activated": "18/02/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-71F3-2994-9DDB-EACA_bot_1763688702432": {
+    "expire": "08/04/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "08/03/2026",
+    "activated": "08/03/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
