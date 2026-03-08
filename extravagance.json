@@ -647,14 +647,6 @@
     "activated": "02/03/2026",
     "bot_id": "bot_1766888920916"
   },
-  "APO-71F3-2994-9DDB-EACA_bot_1763688702432": {
-    "expire": "08/04/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "03/03/2026",
-    "activated": "03/03/2026",
-    "bot_id": "bot_1763688702432"
-  },
   "APO-6585-AAE6-3A5F-88F4_bot_1763688702432": {
     "expire": "10/03/2026",
     "plan": "1week",
