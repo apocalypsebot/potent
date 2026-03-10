@@ -934,5 +934,13 @@
     "created": "07/03/2026",
     "activated": "07/03/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-50C9-AB11-1EB0-B150_bot_1766888920916": {
+    "expire": "17/03/2026",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "10/03/2026",
+    "activated": "10/03/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
