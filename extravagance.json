@@ -966,5 +966,13 @@
     "created": "07/03/2026",
     "activated": "07/03/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-C138-2F67-DB00-7F1D_bot_1763688702432": {
+    "expire": "12/04/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "12/03/2026",
+    "activated": "12/03/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
