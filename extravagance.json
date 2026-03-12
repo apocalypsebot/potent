@@ -998,5 +998,13 @@
     "created": "12/03/2026",
     "activated": "12/03/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-9853-445A-44AC-4930_bot_1766888920916": {
+    "expire": "19/03/2026",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "12/03/2026",
+    "activated": "12/03/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
