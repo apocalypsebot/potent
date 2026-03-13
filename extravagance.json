@@ -1030,12 +1030,5 @@
     "created": "13/03/2026",
     "activated": "13/03/2026",
     "bot_id": "bot_1763688702432"
-  },
-  "APO-C5B4-2923-3A74-99EF": {
-    "expire": "14/03/2026",
-    "plan": "1day",
-    "payment_id": "manual",
-    "created": "13/03/2026",
-    "activated": "13/03/2026"
   }
 }
