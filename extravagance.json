@@ -1038,21 +1038,5 @@
     "created": "12/03/2026",
     "activated": "12/03/2026",
     "bot_id": "bot_1766888920916"
-  },
-  "APO-EDA8-27AB-C926-4BB9_bot_1766888920916": {
-    "expire": "15/03/2026",
-    "plan": "1day",
-    "payment_id": "manual",
-    "created": "14/03/2026",
-    "activated": "14/03/2026",
-    "bot_id": "bot_1766888920916"
-  },
-  "APO-58ED-9B8E-2602-18BC_bot_1766888920916": {
-    "expire": "15/03/2026",
-    "plan": "1day",
-    "payment_id": "manual",
-    "created": "14/03/2026",
-    "activated": "14/03/2026",
-    "bot_id": "bot_1766888920916"
   }
 }
