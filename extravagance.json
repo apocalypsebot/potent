@@ -1069,5 +1069,13 @@
     "payment_id": "manual",
     "created": "16/03/2026",
     "activated": "16/03/2026"
+  },
+  "APO-3F9E-BAD2-5B2F-6625_bot_1766888920916": {
+    "expire": "16/09/2026",
+    "plan": "6months",
+    "payment_id": "manual",
+    "created": "16/03/2026",
+    "activated": "16/03/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
