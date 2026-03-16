@@ -1093,5 +1093,13 @@
     "created": "13/03/2026",
     "activated": "13/03/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-EDA8-27AB-C926-4BB9_bot_1766888920916": {
+    "expire": "17/03/2026",
+    "plan": "1day",
+    "payment_id": "manual",
+    "created": "16/03/2026",
+    "activated": "16/03/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
