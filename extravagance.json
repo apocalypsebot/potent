@@ -1077,5 +1077,13 @@
     "created": "11/03/2026",
     "activated": "11/03/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-59FA-7918-11DD-EE34_bot_1763688702432": {
+    "expire": "16/06/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "16/03/2026",
+    "activated": "16/03/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
