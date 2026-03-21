@@ -1077,5 +1077,13 @@
     "created": "10/03/2026",
     "activated": "10/03/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-61C1-6246-C3DB-0439_bot_1763688702432": {
+    "expire": "20/04/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/03/2026",
+    "activated": "20/03/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
