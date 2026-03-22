@@ -1077,5 +1077,13 @@
     "created": "12/03/2026",
     "activated": "12/03/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-FB8B-F680-8A8F-2EA4_bot_1763688702432": {
+    "expire": "29/03/2026",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "22/03/2026",
+    "activated": "22/03/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
