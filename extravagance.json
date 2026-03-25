@@ -862,14 +862,6 @@
     "activated": "02/03/2026",
     "bot_id": "bot_1766888920916"
   },
-  "APO-B736-AC62-D0B7-201B_bot_1766888920916": {
-    "expire": "20/04/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "20/03/2026",
-    "activated": "20/03/2026",
-    "bot_id": "bot_1766888920916"
-  },
   "APO-020E-A6E6-6589-B509_bot_1763688702432": {
     "expire": "20/04/2026",
     "plan": "1month",
@@ -1076,6 +1068,14 @@
     "payment_id": "manual",
     "created": "12/03/2026",
     "activated": "12/03/2026",
+    "bot_id": "bot_1766888920916"
+  },
+  "APO-4488-5FB2-8B8C-65F7_bot_1766888920916": {
+    "expire": "20/04/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "20/03/2026",
+    "activated": "20/03/2026",
     "bot_id": "bot_1766888920916"
   }
 }
