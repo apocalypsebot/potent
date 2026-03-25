@@ -1085,5 +1085,13 @@
     "created": "24/03/2026",
     "activated": "24/03/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-37C1-6397-5C6B-CE50_bot_1763688702432": {
+    "expire": "24/04/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "24/03/2026",
+    "activated": "24/03/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
