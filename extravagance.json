@@ -1237,5 +1237,13 @@
     "created": "30/03/2026",
     "activated": "30/03/2026",
     "bot_id": "bot_1774663837390"
+  },
+  "APO-87A1-CE99-9810-F52D_bot_1774663837390": {
+    "expire": "01/04/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "01/04/2026",
+    "activated": "01/04/2026",
+    "bot_id": "bot_1774663837390"
   }
 }
