@@ -1221,5 +1221,13 @@
     "created": "02/04/2026",
     "activated": "02/04/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-DEEB-648A-313A-1E8E_bot_1766888920916": {
+    "expire": "02/05/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "02/04/2026",
+    "activated": "02/04/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
