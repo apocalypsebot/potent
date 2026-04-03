@@ -1228,5 +1228,13 @@
     "payment_id": "manual",
     "created": "03/04/2026",
     "activated": "03/04/2026"
+  },
+  "APO-C182-152F-25AE-1FA8_default": {
+    "expire": "03/04/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "03/04/2026",
+    "activated": "03/04/2026",
+    "bot_id": "default"
   }
 }
