@@ -1260,14 +1260,6 @@
     "activated": "12/03/2026",
     "bot_id": "bot_1766888920916"
   },
-  "APO-5D95-A5EB-DE68-1A3B_bot_1766888920916": {
-    "expire": "05/04/2026",
-    "plan": "1day",
-    "payment_id": "manual",
-    "created": "04/04/2026",
-    "activated": "04/04/2026",
-    "bot_id": "bot_1766888920916"
-  },
   "APO-A2C4-97B9-C5E0-0411_bot_1763688702432": {
     "expire": "02/05/2026",
     "plan": "1month",
