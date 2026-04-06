@@ -1291,5 +1291,14 @@
     "created": "13/03/2026",
     "activated": "13/03/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-91B2-3281-C387-9EF5_bot_1763688702432": {
+    "expire": "06/05/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "06/04/2026",
+    "activated": "06/04/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "rsmaster"
   }
 }
