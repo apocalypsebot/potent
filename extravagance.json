@@ -1077,12 +1077,13 @@
     "bot_id": "bot_1766888920916"
   },
   "APO-3529-5F67-CF59-EB9A_bot_1763688702432": {
-    "expire": "17/04/2026",
-    "plan": "1month",
+    "expire": "03/05/2026",
+    "plan": "custom",
     "payment_id": "manual",
     "created": "17/03/2026",
     "activated": "17/03/2026",
-    "bot_id": "bot_1763688702432"
+    "bot_id": "bot_1763688702432",
+    "alias": "Kaly"
   },
   "APO-E514-BCA5-1317-9FF9_bot_1763688702432": {
     "expire": "10/04/2026",
