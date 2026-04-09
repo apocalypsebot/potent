@@ -303,5 +303,14 @@
     "activated": "09/04/2026",
     "bot_id": "bot_1774663837390",
     "alias": "Chukito"
+  },
+  "APO-06B9-CA63-9505-EE87_bot_1766888920916": {
+    "expire": "04/05/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "09/04/2026",
+    "activated": "09/04/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "Juan david"
   }
 }
