@@ -51,5 +51,14 @@
     "activated": "09/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Achero"
+  },
+  "APO-5137-2D0F-AB30-0CB9_bot_1763688702432": {
+    "expire": "08/07/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "09/04/2026",
+    "activated": "09/04/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "Menor Billone"
   }
 }
