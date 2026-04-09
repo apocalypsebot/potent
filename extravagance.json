@@ -420,5 +420,14 @@
     "activated": "09/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Panda"
+  },
+  "APO-59FA-7918-11DD-EE34_bot_1763688702432": {
+    "expire": "09/04/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "09/04/2026",
+    "activated": "09/04/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "san2val"
   }
 }
