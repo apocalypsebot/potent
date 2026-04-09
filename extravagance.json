@@ -96,5 +96,14 @@
     "activated": "09/04/2026",
     "bot_id": "bot_1766888920916",
     "alias": "Luigi"
+  },
+  "APO-F9A9-AF4C-B274-445D_bot_1763688702432": {
+    "expire": "26/04/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "09/04/2026",
+    "activated": "09/04/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "Angel rulay"
   }
 }
