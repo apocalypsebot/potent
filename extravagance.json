@@ -393,5 +393,14 @@
     "activated": "09/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "BJ"
+  },
+  "APO-1F43-95CF-1B70-572A_bot_1766888920916": {
+    "expire": "16/04/2026",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "09/04/2026",
+    "activated": "09/04/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "BJ"
   }
 }
