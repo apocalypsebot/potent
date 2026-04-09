@@ -231,5 +231,14 @@
     "activated": "09/04/2026",
     "bot_id": "bot_1766888920916",
     "alias": "Pollo"
+  },
+  "APO-2F9B-BA58-B8C1-79D6_bot_1774663837390": {
+    "expire": "09/05/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "09/04/2026",
+    "activated": "09/04/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "Bj"
   }
 }
