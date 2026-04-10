@@ -588,5 +588,14 @@
     "created": "09/04/2026",
     "activated": "09/04/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-D1C2-9AF7-5CBD-5DB0_bot_1766888920916": {
+    "expire": "09/05/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "09/04/2026",
+    "activated": "09/04/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "David BJ"
   }
 }
