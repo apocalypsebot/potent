@@ -746,5 +746,14 @@
     "activated": "09/04/2026",
     "bot_id": "bot_1766888920916",
     "alias": "Pollo"
+  },
+  "APO-CFB7-D5C7-BF78-7209_bot_1774663837390": {
+    "expire": "11/04/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "11/04/2026",
+    "activated": "11/04/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "mora"
   }
 }
