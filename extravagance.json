@@ -701,5 +701,14 @@
     "activated": "11/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "san2val"
+  },
+  "APO-3F9E-BAD2-5B2F-6625_bot_1766888920916": {
+    "expire": "11/04/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "11/04/2026",
+    "activated": "11/04/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "san2val"
   }
 }
