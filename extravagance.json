@@ -490,15 +490,6 @@
     "bot_id": "bot_1763688702432",
     "alias": "Kaly"
   },
-  "APO-BC08-E95F-E26D-0332_bot_1766888920916": {
-    "expire": "12/04/2026",
-    "plan": "custom",
-    "payment_id": "manual",
-    "created": "09/04/2026",
-    "activated": "09/04/2026",
-    "bot_id": "bot_1766888920916",
-    "alias": "Panda"
-  },
   "APO-6E5C-F538-519B-10FA_bot_1763688702432": {
     "expire": "24/04/2026",
     "plan": "custom",
