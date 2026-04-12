@@ -702,7 +702,7 @@
     "bot_id": "bot_1766888920916",
     "alias": "BJ"
   },
-  "APO-A002-59AE-CD51-C1D0_bot_1763688702432": {
+  "APO-B567-BE40-8BAD-D323_bot_1763688702432": {
     "expire": "24/05/2026",
     "plan": "custom",
     "payment_id": "manual",
@@ -711,7 +711,7 @@
     "bot_id": "bot_1763688702432",
     "alias": "amaury"
   },
-  "APO-A002-59AE-CD51-C1D0_bot_1766888920916": {
+  "APO-B567-BE40-8BAD-D323_bot_1766888920916": {
     "expire": "14/05/2026",
     "plan": "custom",
     "payment_id": "manual",
