@@ -780,5 +780,14 @@
     "activated": "13/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Panda"
+  },
+  "APO-BC08-E95F-E26D-0332_bot_1763688702432": {
+    "expire": "10/05/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "13/04/2026",
+    "activated": "13/04/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "Panda"
   }
 }
