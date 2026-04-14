@@ -796,5 +796,13 @@
     "created": "12/04/2026",
     "activated": "12/04/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-4D3D-CC05-B1E3-987A_bot_1763688702432": {
+    "expire": "14/04/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "14/04/2026",
+    "activated": "14/04/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
