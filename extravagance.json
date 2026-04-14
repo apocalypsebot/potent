@@ -787,5 +787,14 @@
     "activated": "13/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Lily"
+  },
+  "APO-A78F-B3CB-63F6-DDCE_bot_1766888920916": {
+    "expire": "18/04/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "13/04/2026",
+    "activated": "13/04/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "Lily"
   }
 }
