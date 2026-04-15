@@ -812,5 +812,14 @@
     "activated": "09/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Luigi"
+  },
+  "APO-8676-D5DC-FE93-E06F_bot_1774663837390": {
+    "expire": "15/05/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "15/04/2026",
+    "activated": "15/04/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "Tony"
   }
 }
