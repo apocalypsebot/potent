@@ -803,5 +803,13 @@
     "activated": "15/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Luigi"
+  },
+  "APO-304D-2105-34C2-88B5_bot": {
+    "expire": "17/04/2026",
+    "created": "16/04/2026",
+    "activated": "16/04/2026",
+    "plan": "1day",
+    "payment_id": "4921420290",
+    "bot_id": "bot"
   }
 }
