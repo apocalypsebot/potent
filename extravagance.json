@@ -830,5 +830,13 @@
     "activated": "15/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Luigi"
+  },
+  "APO-29B7-B306-D605-152E_bot_1763688702432": {
+    "expire": "17/05/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "17/04/2026",
+    "activated": "17/04/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
