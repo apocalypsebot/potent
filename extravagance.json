@@ -533,15 +533,6 @@
     "bot_id": "bot_1766888920916",
     "alias": "san2val"
   },
-  "APO-4488-5FB2-8B8C-65F7_bot_1766888920916": {
-    "expire": "20/04/2026",
-    "plan": "custom",
-    "payment_id": "manual",
-    "created": "09/04/2026",
-    "activated": "09/04/2026",
-    "bot_id": "bot_1766888920916",
-    "alias": "Pollo"
-  },
   "APO-CFB7-D5C7-BF78-7209_bot_1774663837390": {
     "expire": "11/04/2027",
     "plan": "1year",
