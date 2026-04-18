@@ -838,5 +838,14 @@
     "activated": "09/04/2026",
     "bot_id": "bot_1766888920916",
     "alias": "amaury"
+  },
+  "APO-DE65-68B1-FC15-EDA5_bot_1774663837390": {
+    "expire": "18/04/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "18/04/2026",
+    "activated": "18/04/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "camilaricardo"
   }
 }
