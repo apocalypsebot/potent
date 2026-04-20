@@ -825,15 +825,6 @@
     "bot_id": "bot_1763688702432",
     "alias": "Luigi"
   },
-  "APO-58C8-FFB7-810E-15DA_bot_1763688702432": {
-    "expire": "24/04/2026",
-    "plan": "custom",
-    "payment_id": "manual",
-    "created": "09/04/2026",
-    "activated": "09/04/2026",
-    "bot_id": "bot_1763688702432",
-    "alias": "Poti"
-  },
   "APO-3A2F-54EC-4402-1DA8_bot_1763688702432": {
     "expire": "20/05/2026",
     "plan": "1month",
