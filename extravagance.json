@@ -948,5 +948,13 @@
     "activated": "22/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Ilume"
+  },
+  "APO-E514-BCA5-1317-9FF9_bot_1763688702432": {
+    "expire": "13/05/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "22/04/2026",
+    "activated": "22/04/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
