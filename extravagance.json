@@ -911,5 +911,14 @@
     "created": "22/04/2026",
     "activated": "22/04/2026",
     "alias": "Poti"
+  },
+  "APO-27A1-2F43-8628-6338_bot_1766888920916": {
+    "expire": "22/05/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "22/04/2026",
+    "activated": "22/04/2026",
+    "alias": "Poti",
+    "bot_id": "bot_1766888920916"
   }
 }
