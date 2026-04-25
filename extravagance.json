@@ -952,5 +952,14 @@
     "activated": "22/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "poti"
+  },
+  "APO-C795-A7BA-DEE6-8508_bot_1763688702432": {
+    "expire": "18/05/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "25/04/2026",
+    "activated": "25/04/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "lui miguel"
   }
 }
