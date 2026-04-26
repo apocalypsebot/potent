@@ -979,5 +979,13 @@
     "created": "26/04/2026",
     "activated": "26/04/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-9F82-AD37-5227-FCCA_bot_1766888920916": {
+    "expire": "26/05/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "26/04/2026",
+    "activated": "26/04/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
