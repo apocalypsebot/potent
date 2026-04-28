@@ -930,5 +930,14 @@
     "created": "26/04/2026",
     "activated": "26/04/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-7D4B-AB42-98F1-A1AA_bot_1774663837390": {
+    "expire": "28/04/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "28/04/2026",
+    "activated": "28/04/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "rsmaster"
   }
 }
