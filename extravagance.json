@@ -947,5 +947,13 @@
     "activated": "21/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Luigi"
+  },
+  "APO-DC18-6ABA-5A7B-50D0_bot_1766888920916": {
+    "expire": "05/05/2026",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "28/04/2026",
+    "activated": "28/04/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
