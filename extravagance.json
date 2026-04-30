@@ -949,5 +949,23 @@
     "activated": "21/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Luigi"
+  },
+  "APO-C160-A80B-F363-435B_bot_1763688702432": {
+    "expire": "21/04/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "21/04/2026",
+    "activated": "21/04/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "Luigi"
+  },
+  "APO-FE33-8580-00FF-528B_bot_1763688702432": {
+    "expire": "30/05/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "30/04/2026",
+    "activated": "30/04/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "Emilsito"
   }
 }
