@@ -940,5 +940,14 @@
     "activated": "21/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Luigi"
+  },
+  "APO-DE5B-EAA4-D711-E1B6_bot_1763688702432": {
+    "expire": "21/05/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "30/04/2026",
+    "activated": "30/04/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "Kaly"
   }
 }
