@@ -958,5 +958,13 @@
     "activated": "30/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Emilsito"
+  },
+  "APO-41AA-353D-554D-5C81_bot_1763688702432": {
+    "expire": "02/06/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "30/04/2026",
+    "activated": "30/04/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
