@@ -982,5 +982,14 @@
     "activated": "21/04/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Luigi"
+  },
+  "APO-FD70-6D0F-D446-F6DF_bot_1763688702432": {
+    "expire": "05/05/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "30/04/2026",
+    "activated": "30/04/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "Kaly"
   }
 }
