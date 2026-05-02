@@ -1006,5 +1006,14 @@
     "activated": "02/05/2026",
     "bot_id": "bot_1766888920916",
     "alias": "poti"
+  },
+  "APO-EDAF-F21F-3FE0-3C14_bot_1766888920916": {
+    "expire": "02/05/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "02/05/2026",
+    "activated": "02/05/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "BJ"
   }
 }
