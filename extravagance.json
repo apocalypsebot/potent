@@ -1024,5 +1024,14 @@
     "activated": "09/04/2026",
     "bot_id": "bot_1766888920916",
     "alias": "amaury"
+  },
+  "APO-E0F6-741C-A14F-3129_bot_1763688702432": {
+    "expire": "03/06/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "02/05/2026",
+    "activated": "02/05/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "Profesor"
   }
 }
