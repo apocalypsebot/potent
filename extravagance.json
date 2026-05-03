@@ -1008,5 +1008,14 @@
     "activated": "02/05/2026",
     "bot_id": "bot_1766888920916",
     "alias": "Profesor"
+  },
+  "APO-1AB2-AB11-A4DB-A2F0_bot_1763688702432": {
+    "expire": "30/10/2026",
+    "plan": "6months",
+    "payment_id": "manual",
+    "created": "03/05/2026",
+    "activated": "03/05/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "san2val"
   }
 }
