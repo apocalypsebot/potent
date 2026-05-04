@@ -974,5 +974,14 @@
     "activated": "03/05/2026",
     "bot_id": "bot_1766888920916",
     "alias": "san2val"
+  },
+  "APO-B454-CFC9-212B-2ABB_bot_1774663837390": {
+    "expire": "04/05/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "04/05/2026",
+    "activated": "04/05/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "Moritz"
   }
 }
