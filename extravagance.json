@@ -971,5 +971,13 @@
     "created": "05/05/2026",
     "activated": "05/05/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-58C8-FFB7-810E-15DA_bot_1763688702432": {
+    "expire": "31/05/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "05/05/2026",
+    "activated": "05/05/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
