@@ -965,5 +965,13 @@
     "activated": "05/05/2026",
     "bot_id": "bot_1766888920916",
     "alias": "Angel ojo"
+  },
+  "APO-68EB-F418-57B2-0805_bot_1763688702432": {
+    "expire": "24/05/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "05/05/2026",
+    "activated": "05/05/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
