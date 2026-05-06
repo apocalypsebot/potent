@@ -1003,5 +1003,14 @@
     "created": "19/04/2026",
     "activated": "19/04/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-3D54-B35B-0884-ECC8_bot_1763688702432": {
+    "expire": "04/06/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "05/05/2026",
+    "activated": "05/05/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "Misael"
   }
 }
