@@ -1014,5 +1014,21 @@
     "created": "05/05/2026",
     "activated": "05/05/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-8EC6-68AB-91F6-A15F_bot_1763688702432": {
+    "expire": "31/05/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "05/05/2026",
+    "activated": "05/05/2026",
+    "bot_id": "bot_1763688702432"
+  },
+  "APO-8EC6-68AB-91F6-A15F_bot_1766888920916": {
+    "expire": "31/05/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "05/05/2026",
+    "activated": "05/05/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
