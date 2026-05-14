@@ -304,14 +304,6 @@
     "bot_id": "bot_1763688702432",
     "alias": "Pollo"
   },
-  "APO-E514-BCA5-1317-9FF9_bot_1763688702432": {
-    "expire": "13/05/2026",
-    "plan": "custom",
-    "payment_id": "manual",
-    "created": "22/04/2026",
-    "activated": "22/04/2026",
-    "bot_id": "bot_1763688702432"
-  },
   "APO-4B1D-55B5-2C48-81C8_bot_1763688702432": {
     "expire": "22/05/2026",
     "plan": "1month",
