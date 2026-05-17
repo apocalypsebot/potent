@@ -896,5 +896,14 @@
     "activated": "15/05/2026",
     "bot_id": "bot_1766888920916",
     "alias": ","
+  },
+  "APO-3B4F-F75A-B219-0592_bot_1763688702432": {
+    "expire": "01/06/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "17/05/2026",
+    "activated": "17/05/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "fff"
   }
 }
