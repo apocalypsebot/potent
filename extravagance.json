@@ -880,5 +880,14 @@
     "activated": "17/05/2026",
     "bot_id": "bot_1774663837390",
     "alias": "eduardo"
+  },
+  "APO-2A7D-A4A5-2C28-62D4_bot_1763688702432": {
+    "expire": "18/05/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "18/05/2026",
+    "activated": "18/05/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "kode"
   }
 }
