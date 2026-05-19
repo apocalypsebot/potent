@@ -161,8 +161,8 @@
     "alias": "lidel"
   },
   "APO-1588-DE7E-A89E-2716_bot_1763688702432": {
-    "expire": "20/05/2026",
-    "plan": "1month",
+    "expire": "03/06/2026",
+    "plan": "custom",
     "payment_id": "manual",
     "created": "20/04/2026",
     "activated": "20/04/2026",
