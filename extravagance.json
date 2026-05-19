@@ -854,5 +854,13 @@
     "created": "18/05/2026",
     "activated": "18/05/2026",
     "bot_id": "bot_1763688702432"
+  },
+  "APO-2A2E-1EBD-2C23-8252_bot_1766888920916": {
+    "expire": "02/06/2026",
+    "plan": "custom",
+    "payment_id": "manual",
+    "created": "18/05/2026",
+    "activated": "18/05/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
