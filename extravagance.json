@@ -872,5 +872,13 @@
     "activated": "19/05/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Rubio"
+  },
+  "APO-35AA-5D00-C36E-82A6_bot_1778455407966": {
+    "expire": "18/06/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "19/05/2026",
+    "activated": "19/05/2026",
+    "bot_id": "bot_1778455407966"
   }
 }
