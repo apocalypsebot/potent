@@ -879,5 +879,14 @@
     "activated": "19/05/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Amaury"
+  },
+  "APO-41AA-353D-554D-5C81_bot_1763688702432": {
+    "expire": "22/05/2026",
+    "plan": "1day",
+    "payment_id": "manual",
+    "created": "21/05/2026",
+    "activated": "21/05/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "fdd"
   }
 }
