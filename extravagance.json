@@ -577,5 +577,14 @@
     "activated": "08/06/2026",
     "bot_id": "default",
     "alias": "Panda"
+  },
+  "APO-AA2B-84F8-4869-1403_bot_1774663837390": {
+    "expire": "07/09/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "09/06/2026",
+    "activated": "09/06/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "drum"
   }
 }
