@@ -568,5 +568,14 @@
     "activated": "19/05/2026",
     "bot_id": "bot_1763688702432",
     "alias": "Amaury"
+  },
+  "APO-E090-850D-BDEA-4EE3_default": {
+    "expire": "15/06/2026",
+    "plan": "1week",
+    "payment_id": "manual",
+    "created": "08/06/2026",
+    "activated": "08/06/2026",
+    "bot_id": "default",
+    "alias": "Panda"
   }
 }
