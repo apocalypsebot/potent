@@ -586,5 +586,14 @@
     "activated": "09/06/2026",
     "bot_id": "bot_1774663837390",
     "alias": "drum"
+  },
+  "APO-48E3-A0BA-B400-5AFC_bot_1763688702432": {
+    "expire": "10/07/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "10/06/2026",
+    "activated": "10/06/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "Pollo"
   }
 }
