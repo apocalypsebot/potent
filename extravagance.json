@@ -614,5 +614,14 @@
     "activated": "19/06/2026",
     "bot_id": "bot_1774663837390",
     "alias": "diddy"
+  },
+  "APO-E5F5-3A5B-1B2C-42C7_bot_1766888920916": {
+    "expire": "29/07/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "29/06/2026",
+    "activated": "29/06/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "Chala panda"
   }
 }
