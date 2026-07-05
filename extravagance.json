@@ -79,15 +79,6 @@
     "bot_id": "bot_1766888920916",
     "alias": "Achero"
   },
-  "APO-5A07-60B7-AE20-CA2D_bot_1763688702432": {
-    "expire": "04/08/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "09/04/2026",
-    "activated": "09/04/2026",
-    "bot_id": "bot_1763688702432",
-    "alias": "san2val"
-  },
   "APO-5A07-60B7-AE20-CA2D_bot_1766888920916": {
     "expire": "03/10/2026",
     "plan": "3months",
