@@ -651,5 +651,14 @@
     "activated": "06/07/2026",
     "bot_id": "bot_1763688702432",
     "alias": "lidel"
+  },
+  "APO-5BF7-86E9-1E73-06FF_bot_1766888920916": {
+    "expire": "04/10/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "06/07/2026",
+    "activated": "06/07/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "lidel"
   }
 }
