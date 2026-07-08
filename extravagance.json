@@ -669,5 +669,13 @@
     "activated": "07/07/2026",
     "bot_id": "bot_1763688702432",
     "alias": "chica sandocal"
+  },
+  "APO-7FA1-10DD-A1B5-27BF_bot_1766888920916": {
+    "expire": "05/10/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "07/07/2026",
+    "activated": "07/07/2026",
+    "bot_id": "bot_1766888920916"
   }
 }
