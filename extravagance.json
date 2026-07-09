@@ -690,5 +690,13 @@
     "created": "09/07/2026",
     "activated": "09/07/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-E090-850D-BDEA-4EE3_bot_1763688702432": {
+    "expire": "09/07/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "09/07/2026",
+    "activated": "09/07/2026",
+    "bot_id": "bot_1763688702432"
   }
 }
