@@ -590,15 +590,6 @@
     "activated": "08/07/2026",
     "bot_id": "bot_1763688702432"
   },
-  "APO-E5F5-3A5B-1B2C-42C7_bot_1766888920916": {
-    "expire": "09/07/2027",
-    "plan": "1year",
-    "payment_id": "manual",
-    "created": "09/07/2026",
-    "activated": "09/07/2026",
-    "bot_id": "bot_1766888920916",
-    "alias": "Chala panda"
-  },
   "APO-3B2D-1704-AC99-635A_bot_1763688702432": {
     "expire": "03/10/2026",
     "plan": "3months",
