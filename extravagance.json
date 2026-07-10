@@ -693,7 +693,7 @@
     "bot_id": "bot_1766888920916",
     "alias": "san2val"
   },
-  "APO-E230-2C95-2661-7D9D_bot_1763688702432": {
+  "APO-DE46-A570-4186-6AB8_bot_1763688702432": {
     "expire": "16/04/2027",
     "plan": "1year",
     "payment_id": "manual",
@@ -701,7 +701,7 @@
     "activated": "16/04/2026",
     "bot_id": "bot_1763688702432"
   },
-  "APO-E230-2C95-2661-7D9D_bot_1766888920916": {
+  "APO-DE46-A570-4186-6AB8_bot_1766888920916": {
     "expire": "20/04/2027",
     "plan": "1year",
     "payment_id": "manual",
@@ -709,7 +709,7 @@
     "activated": "20/04/2026",
     "bot_id": "bot_1766888920916"
   },
-  "APO-E230-2C95-2661-7D9D_bot_1778455407966": {
+  "APO-DE46-A570-4186-6AB8_bot_1778455407966": {
     "expire": "10/05/2027",
     "plan": "1year",
     "payment_id": "manual",
