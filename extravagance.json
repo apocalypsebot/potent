@@ -680,5 +680,14 @@
     "created": "10/05/2026",
     "activated": "10/05/2026",
     "bot_id": "bot_1778455407966"
+  },
+  "APO-AFE8-C83B-2EA4-56E4_bot_1763688702432": {
+    "expire": "13/07/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "13/07/2026",
+    "activated": "13/07/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "san2val"
   }
 }
