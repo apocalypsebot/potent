@@ -716,5 +716,14 @@
     "activated": "14/07/2026",
     "bot_id": "bot_1766888920916",
     "alias": "san2val"
+  },
+  "APO-E568-B35B-0A95-0A4F_bot_1774663837390": {
+    "expire": "14/07/2026",
+    "plan": "1day",
+    "payment_id": "manual",
+    "created": "13/07/2026",
+    "activated": "13/07/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "eduardo"
   }
 }
