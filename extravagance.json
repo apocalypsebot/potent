@@ -725,5 +725,14 @@
     "activated": "13/07/2026",
     "bot_id": "bot_1774663837390",
     "alias": "eduardo"
+  },
+  "APO-AAA6-A6D7-0687-B6D1_bot_1766888920916": {
+    "expire": "14/07/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "14/07/2026",
+    "activated": "14/07/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "Panda cunado"
   }
 }
