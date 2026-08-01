@@ -805,5 +805,14 @@
     "activated": "01/08/2026",
     "bot_id": "bot_1763688702432",
     "alias": "san2val"
+  },
+  "APO-1649-94C4-068E-550E_bot_1766888920916": {
+    "expire": "30/10/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "01/08/2026",
+    "activated": "01/08/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "san2val"
   }
 }
