@@ -798,5 +798,14 @@
     "activated": "08/08/2026",
     "bot_id": "bot_1763688702432",
     "alias": "san2val"
+  },
+  "APO-67B7-34D2-69C2-D09F_bot_1766888920916": {
+    "expire": "08/08/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "08/08/2026",
+    "activated": "08/08/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "san2val"
   }
 }
