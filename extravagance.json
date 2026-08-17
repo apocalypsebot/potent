@@ -744,5 +744,14 @@
     "activated": "17/08/2026",
     "bot_id": "bot_1763688702432",
     "alias": "san2val"
+  },
+  "APO-D928-2D3D-C62C-2DBE_bot_1766888920916": {
+    "expire": "17/08/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "17/08/2026",
+    "activated": "17/08/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "san2val"
   }
 }
