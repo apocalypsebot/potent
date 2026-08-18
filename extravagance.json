@@ -606,24 +606,6 @@
     "bot_id": "bot_1766888920916",
     "alias": "Panda cunado"
   },
-  "APO-071C-A3AF-ABB4-3A87_bot_1763688702432": {
-    "expire": "17/08/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "18/07/2026",
-    "activated": "18/07/2026",
-    "bot_id": "bot_1763688702432",
-    "alias": "san2val"
-  },
-  "APO-071C-A3AF-ABB4-3A87_bot_1766888920916": {
-    "expire": "17/08/2026",
-    "plan": "1month",
-    "payment_id": "manual",
-    "created": "18/07/2026",
-    "activated": "18/07/2026",
-    "bot_id": "bot_1766888920916",
-    "alias": "san2val"
-  },
   "APO-FD70-6D0F-D446-F6DF_bot_1763688702432": {
     "expire": "18/10/2026",
     "plan": "3months",
@@ -651,8 +633,8 @@
     "bot_id": "bot_1763688702432"
   },
   "APO-442E-B834-3B0A-D64A_bot_1763688702432": {
-    "expire": "19/08/2026",
-    "plan": "1month",
+    "expire": "18/08/2027",
+    "plan": "1year",
     "payment_id": "manual",
     "created": "20/07/2026",
     "activated": "20/07/2026",
@@ -761,5 +743,23 @@
     "created": "17/08/2026",
     "activated": "17/08/2026",
     "bot_id": "bot_1766888920916"
+  },
+  "APO-071C-A3AF-ABB4-3A87_bot_1763688702432": {
+    "expire": "17/08/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "18/07/2026",
+    "activated": "18/07/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "san2val"
+  },
+  "APO-071C-A3AF-ABB4-3A87_bot_1766888920916": {
+    "expire": "17/08/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "18/07/2026",
+    "activated": "18/07/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "san2val"
   }
 }
