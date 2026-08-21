@@ -761,5 +761,14 @@
     "activated": "18/08/2026",
     "bot_id": "bot_1766888920916",
     "alias": "san2val"
+  },
+  "APO-2AB4-E532-41E0-3FF8_bot_1774663837390": {
+    "expire": "20/08/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "20/08/2026",
+    "activated": "20/08/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "moreta"
   }
 }
