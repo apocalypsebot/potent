@@ -289,15 +289,6 @@
     "activated": "30/04/2026",
     "bot_id": "bot_1763688702432"
   },
-  "APO-DD9D-0834-7843-1612_bot_1764789305606": {
-    "expire": "13/05/2027",
-    "plan": "1year",
-    "payment_id": "manual",
-    "created": "13/05/2026",
-    "activated": "13/05/2026",
-    "bot_id": "bot_1764789305606",
-    "alias": "Luigi"
-  },
   "APO-AA2B-84F8-4869-1403_bot_1774663837390": {
     "expire": "07/09/2026",
     "plan": "3months",
