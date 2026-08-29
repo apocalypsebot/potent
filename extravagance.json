@@ -629,5 +629,14 @@
     "activated": "25/08/2026",
     "bot_id": "bot_1766888920916",
     "alias": "san2val"
+  },
+  "APO-B36D-FFB0-CAFC-A14C_bot_1766888920916": {
+    "expire": "26/09/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "27/08/2026",
+    "activated": "27/08/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "san2val"
   }
 }
