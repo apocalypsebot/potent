@@ -694,5 +694,14 @@
     "activated": "04/09/2026",
     "bot_id": "bot_1763688702432",
     "alias": "san2val"
+  },
+  "APO-C017-923B-EB74-7E0D_bot_1774663837390": {
+    "expire": "04/03/2027",
+    "plan": "6months",
+    "payment_id": "manual",
+    "created": "05/09/2026",
+    "activated": "05/09/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "Turco"
   }
 }
