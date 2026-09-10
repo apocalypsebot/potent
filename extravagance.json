@@ -694,5 +694,14 @@
     "activated": "05/09/2026",
     "bot_id": "bot_1774663837390",
     "alias": "Turco"
+  },
+  "APO-3EF4-B97F-C19D-A909_bot_1763688702432": {
+    "expire": "10/09/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "10/09/2026",
+    "activated": "10/09/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "san2val"
   }
 }
