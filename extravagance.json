@@ -686,13 +686,13 @@
     "bot_id": "bot_1774663837390",
     "alias": "Diddy"
   },
-  "APO-4746-B365-0690-2569_bot_1766888920916": {
+  "APO-4746-B365-0690-2569_bot_1763688702432": {
     "expire": "12/09/2027",
     "plan": "1year",
     "payment_id": "manual",
     "created": "12/09/2026",
     "activated": "12/09/2026",
-    "bot_id": "bot_1766888920916",
+    "bot_id": "bot_1763688702432",
     "alias": "san2val"
   }
 }
