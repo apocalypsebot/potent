@@ -560,15 +560,6 @@
     "bot_id": "bot_1774663837390",
     "alias": "moreta"
   },
-  "APO-4746-B365-0690-2569_bot_1766888920916": {
-    "expire": "25/08/2027",
-    "plan": "1year",
-    "payment_id": "manual",
-    "created": "25/08/2026",
-    "activated": "25/08/2026",
-    "bot_id": "bot_1766888920916",
-    "alias": "san2val"
-  },
   "APO-B36D-FFB0-CAFC-A14C_bot_1766888920916": {
     "expire": "26/09/2026",
     "plan": "1month",
