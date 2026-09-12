@@ -719,5 +719,14 @@
     "payment_id": "manual",
     "created": "12/09/2026",
     "activated": "12/09/2026"
+  },
+  "APO-324D-4AEE-B154-F27A_bot_1763688702432": {
+    "expire": "12/09/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "12/09/2026",
+    "activated": "12/09/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "fff"
   }
 }
