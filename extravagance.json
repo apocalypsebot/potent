@@ -685,5 +685,14 @@
     "activated": "15/06/2026",
     "bot_id": "bot_1763688423149",
     "alias": "kode"
+  },
+  "APO-CC6B-42D2-97D9-BF60_bot_1763688702432": {
+    "expire": "12/09/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "12/09/2026",
+    "activated": "12/09/2026",
+    "bot_id": "bot_1763688702432",
+    "alias": "r"
   }
 }
