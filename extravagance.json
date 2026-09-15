@@ -728,5 +728,14 @@
     "activated": "12/09/2026",
     "bot_id": "bot_1763688702432",
     "alias": "fff"
+  },
+  "APO-3775-89FB-E982-95C2_bot_1774663837390": {
+    "expire": "14/12/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "15/09/2026",
+    "activated": "15/09/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "moreta"
   }
 }
