@@ -596,15 +596,6 @@
     "bot_id": "bot_1766888920916",
     "alias": "san2val"
   },
-  "APO-9E32-FDB5-0791-8610_bot_1774663837390": {
-    "expire": "09/12/2026",
-    "plan": "3months",
-    "payment_id": "manual",
-    "created": "10/09/2026",
-    "activated": "10/09/2026",
-    "bot_id": "bot_1774663837390",
-    "alias": "Diddy"
-  },
   "APO-4746-B365-0690-2569_bot_1763688702432": {
     "expire": "12/09/2027",
     "plan": "1year",
