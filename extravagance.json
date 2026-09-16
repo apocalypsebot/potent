@@ -737,5 +737,14 @@
     "activated": "15/09/2026",
     "bot_id": "bot_1774663837390",
     "alias": "moreta"
+  },
+  "APO-2A7D-A4A5-2C28-62D4_bot_1789522620975": {
+    "expire": "15/09/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "15/09/2026",
+    "activated": "15/09/2026",
+    "bot_id": "bot_1789522620975",
+    "alias": "kode"
   }
 }
