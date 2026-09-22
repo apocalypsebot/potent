@@ -754,5 +754,14 @@
     "created": "16/09/2026",
     "activated": "16/09/2026",
     "bot_id": "bot_1789522620975"
+  },
+  "APO-27FA-A73D-C9AA-F821_bot_1790037494936": {
+    "expire": "21/10/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "21/09/2026",
+    "activated": "21/09/2026",
+    "bot_id": "bot_1790037494936",
+    "alias": "kddd"
   }
 }
