@@ -763,5 +763,14 @@
     "activated": "21/09/2026",
     "bot_id": "bot_1790037494936",
     "alias": "kddd"
+  },
+  "APO-7C23-CFCC-5EFD-666F_bot_1790037494936": {
+    "expire": "22/09/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "22/09/2026",
+    "activated": "22/09/2026",
+    "bot_id": "bot_1790037494936",
+    "alias": "chon"
   }
 }
