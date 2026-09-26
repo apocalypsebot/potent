@@ -772,5 +772,14 @@
     "activated": "22/09/2026",
     "bot_id": "bot_1790037494936",
     "alias": "chon"
+  },
+  "APO-075F-382E-E08D-658C_bot_1774663837390": {
+    "expire": "24/12/2026",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "25/09/2026",
+    "activated": "25/09/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "Mellocompa"
   }
 }
