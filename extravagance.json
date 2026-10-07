@@ -692,5 +692,14 @@
     "activated": "25/09/2026",
     "bot_id": "bot_1774663837390",
     "alias": "Mellocompa"
+  },
+  "APO-7FA1-10DD-A1B5-27BF_bot_1766888920916": {
+    "expire": "05/04/2027",
+    "plan": "6months",
+    "payment_id": "manual",
+    "created": "07/10/2026",
+    "activated": "07/10/2026",
+    "bot_id": "bot_1766888920916",
+    "alias": "san2val"
   }
 }
