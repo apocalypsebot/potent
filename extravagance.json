@@ -701,5 +701,14 @@
     "activated": "07/10/2026",
     "bot_id": "bot_1766888920916",
     "alias": "san2val"
+  },
+  "APO-A002-59AE-CD51-C1D0_bot_1774663837390": {
+    "expire": "06/11/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "07/10/2026",
+    "activated": "07/10/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "amaury"
   }
 }
