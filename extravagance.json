@@ -719,5 +719,14 @@
     "activated": "08/10/2026",
     "bot_id": "bot_1790037494936",
     "alias": "Choncho"
+  },
+  "APO-B1D5-039B-9F3B-7A73_bot_1790037494936": {
+    "expire": "07/11/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "08/10/2026",
+    "activated": "08/10/2026",
+    "bot_id": "bot_1790037494936",
+    "alias": "thanksgood"
   }
 }
