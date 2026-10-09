@@ -737,5 +737,14 @@
     "activated": "08/10/2026",
     "bot_id": "bot_1790037494936",
     "alias": "kode"
+  },
+  "APO-A816-030B-5502-53F5_bot_1790037494936": {
+    "expire": "09/10/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "09/10/2026",
+    "activated": "09/10/2026",
+    "bot_id": "bot_1790037494936",
+    "alias": "kode2"
   }
 }
