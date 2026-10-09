@@ -728,5 +728,14 @@
     "activated": "08/10/2026",
     "bot_id": "bot_1790037494936",
     "alias": "thanksgood"
+  },
+  "APO-B7A1-6C14-EAF6-6AF7_bot_1790037494936": {
+    "expire": "08/10/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "08/10/2026",
+    "activated": "08/10/2026",
+    "bot_id": "bot_1790037494936",
+    "alias": "kode"
   }
 }
