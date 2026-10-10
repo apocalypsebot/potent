@@ -746,5 +746,14 @@
     "activated": "09/10/2026",
     "bot_id": "bot_1790037494936",
     "alias": "kode2"
+  },
+  "APO-429A-5BDC-3F3B-9913_bot_1790037494936": {
+    "expire": "10/10/2027",
+    "plan": "1year",
+    "payment_id": "manual",
+    "created": "10/10/2026",
+    "activated": "10/10/2026",
+    "bot_id": "bot_1790037494936",
+    "alias": "kode4"
   }
 }
