@@ -755,5 +755,14 @@
     "activated": "10/10/2026",
     "bot_id": "bot_1790037494936",
     "alias": "kode4"
+  },
+  "APO-D452-9F33-69BF-2F2A_bot_1790037494936": {
+    "expire": "10/11/2026",
+    "plan": "1month",
+    "payment_id": "manual",
+    "created": "11/10/2026",
+    "activated": "11/10/2026",
+    "bot_id": "bot_1790037494936",
+    "alias": "goldito"
   }
 }
