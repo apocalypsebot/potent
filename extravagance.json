@@ -773,5 +773,14 @@
     "activated": "15/10/2026",
     "bot_id": "bot_1774663837390",
     "alias": "ilumine"
+  },
+  "APO-6439-EAFE-3048-C614_bot_1774663837390": {
+    "expire": "14/01/2027",
+    "plan": "3months",
+    "payment_id": "manual",
+    "created": "16/10/2026",
+    "activated": "16/10/2026",
+    "bot_id": "bot_1774663837390",
+    "alias": "ilumine"
   }
 }
